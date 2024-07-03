@@ -1,9 +1,9 @@
 package kitten
 
-func talk() string {
+func Talk() string {
 	return "meow"
 }
 
-func talks() string {
+func Talks() string {
 	return "meow meow mewo"
 }
